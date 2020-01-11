@@ -1,7 +1,7 @@
-e4db6c98f237df15d14fa1d6f2b3f7ed *DESCRIPTION
+a26625666268e4103b7ea2f617af6a9e *DESCRIPTION
 42cf924fb7b8b5a7234107cb951fc617 *LICENSE
 6ba30635508ad8fc3670fa2bad683791 *NAMESPACE
-ce061c86a7e547e8288743ccc0e59b24 *NEWS.md
+edd4e275df55206cc70f0d6de3646b1e *NEWS.md
 3b3c04afb78ab7b1a4a7a1226e103c9c *R/city_list.R
 d09ba35b0f78bd4d7f9aab9619770132 *R/current-bbox.R
 7a80cd111e83ad831f2d728a56ccd34a *R/current-multiple.R
@@ -14,7 +14,7 @@ de0b14bade7938e1d9f562363e6dee30 *R/forecast-daily.R
 1606858618c70618d2a063483ca9e30c *R/lowlevel.R
 92f36617cc5ac1cddbd3e0c64941729d *R/package.R
 1829f043cf4e3d173438e6a7dc8882c5 *R/render.R
-18d315b31e94e126e7405e8d61c6ea57 *R/response-to-tibble.R
+071443a4eff13ede04f1ef95e425125b *R/response-to-tibble.R
 3a0d4d641c63ce257d67f4599acf9dce *R/settings.R
 5361103f2a9c8b4f31cf3e7b4ce26156 *R/tidy_up-cbind_weather.R
 9ddff8f1742e24c1162cbb4a51939714 *R/tidy_up-flatten.R
@@ -45,10 +45,10 @@ a1304509fa7ebd4952668eae94aee61c *man/get_icon_url.Rd
 6c2e75df3b003cf545e5476d7d2e0abc *man/owm_cities.Rd
 b40a0dae50d559c6c4379da70c7ab749 *man/owm_layers.Rd
 2b68633a142af2e711b195894cfcce64 *man/owmr.Rd
-7407412f2b3374ffbcbbfcb751851746 *man/owmr_as_tibble.Rd
+2bcbf9d9e3aab8d364ccc71f45163546 *man/owmr_as_tibble.Rd
 8c8442cb5cbd93c1dfb8adad054c55f6 *man/owmr_settings.Rd
 08f5cf97457e455c39537fcdd1949caa *man/parse_columns.Rd
-cb191e1e700e49981bb2be04151c8fd0 *man/reexports.Rd
+0b51ffbb2700b404ee36d359f5878960 *man/reexports.Rd
 7cf060e1d911fb3ab999c361d5f49f6e *man/remove_prefix.Rd
 cec2d823b0ac938880616d9d75a1c2f9 *man/render.Rd
 12e5213d6bade11cd9a7bd3c16be8a52 *man/search_city_list.Rd
